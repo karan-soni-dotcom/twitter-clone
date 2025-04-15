@@ -31,7 +31,8 @@ A simple Twitter-like web application built using Flask and MongoDB.
 ## Features  
 
 ✅ **User Authentication** – Signup & Login using Flask sessions  
-✅ **Create Tweets** – Users can post short messages  
+✅ **Create Tweets** – Users can post short messages
+✅ **edit Tweets** – Users can now edit messages
 ✅ **View Tweets** – Display all tweets from users  
 ✅ **Delete Tweets** – Users can remove their own tweets  
 ✅ **Like Tweets** – Simple like feature using MongoDB  
